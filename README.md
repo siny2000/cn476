@@ -3,3 +3,5 @@
 #คลิปอธิบาย blockchain <https://youtu.be/uCsp3fFKtJ0> 
 
 #คลิปอธิบาย IPFS <https://youtu.be/lO-FX8BxOCw>
+
+#คลิปการใช้คำสั่งdig <https://youtu.be/fijMmW93VuY>
